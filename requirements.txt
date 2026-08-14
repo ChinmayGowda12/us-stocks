@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+scikit-learn
+xgboost
+matplotlib
+seaborn
+ta
+joblib

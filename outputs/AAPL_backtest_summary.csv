@@ -1,0 +1,15 @@
+Metric,Value
+Ticker,AAPL
+Initial Capital,10000.0
+Final Strategy Value,10401.761568951679
+Final Buy & Hold Value,11888.256027810456
+Strategy Return,0.04017615689516796
+Buy & Hold Return,0.18882560278104554
+Maximum Drawdown,-0.03291992301010116
+Sharpe Ratio,0.8110423512136032
+Win Rate,0.6363636363636364
+Average Trade Return,0.004126628841221409
+Profit Factor,1.8391884206247513
+Directional Accuracy,0.4786729857819905
+Number of Entries,9
+Number of Exits,9
